@@ -1,7 +1,10 @@
 '''
-dependencies:
+CryptoAssetPrices by Alferes1 - github.com/Alferes1
+
+Dependencies:
 requests
 beautifulsoup4 (bs4)
+
 Crypto currencies values by CoinMarketCap (https://coinmarketcap.com/)
 '''
 
