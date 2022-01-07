@@ -4,7 +4,7 @@ A python-based terminal application that displays current cryptocurrency prices.
 # Covered Cryptocurrencies
 Bitcoin (BTC)
 
-Ethereum (ETH)
+# Ethereum (ETH)
 
 Litecoin (LTC)
 
