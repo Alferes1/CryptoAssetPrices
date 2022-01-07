@@ -11,8 +11,6 @@ import datetime
 import requests
 from bs4 import *
 
-####
-
 now = datetime.datetime.now()
 year = '{:02d}'.format(now.year)
 month = '{:02d}'.format(now.month)
@@ -22,11 +20,11 @@ minute = '{:02d}'.format(now.minute)
 day_month_year = '{}-{}-{}'.format(year, month, day)
 hour_minute = '{}:{}'.format(hour, minute)
 
-####
+
 print('Crypto Currencies Values - github.com/Alferes1')
 print('Date: ' + day_month_year + ' | ' + hour_minute)
 print()
-####
+
 
 btc = "https://coinmarketcap.com/currencies/bitcoin/"
 btcHtml = requests.get(btc)
