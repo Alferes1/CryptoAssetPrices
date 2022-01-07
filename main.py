@@ -2,7 +2,6 @@
 dependencies:
 requests
 beautifulsoup4 (bs4)
-
 Crypto currencies values by CoinMarketCap (https://coinmarketcap.com/)
 '''
 
