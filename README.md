@@ -35,5 +35,8 @@ Shiba Inu (SHIB)
 Binance USD (BUSD)
 
 # Required Libraries
+This application requires the following libraries for properly functioning:
+
 requests (https://docs.python-requests.org/en/latest/)
+
 beautifulsoup4 (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
