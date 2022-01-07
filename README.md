@@ -1,4 +1,6 @@
 # CryptoAssetPrices
+![.](https://user-images.githubusercontent.com/93006846/148598557-34f8a5fb-6c50-4c07-94aa-f2a3b5412f1e.png)
+
 A python-based terminal application that displays current cryptocurrency prices.
 
 # Covered Cryptocurrencies
