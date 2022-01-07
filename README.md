@@ -5,19 +5,33 @@ A python-based terminal application that displays current cryptocurrency prices
 Bitcoin (BTC)
 
 Ethereum (ETH)
+
 Litecoin (LTC)
+
 Monero (XMR)
+
 Bitcoin Cash (BCH)
+
 USD Coin (USDC)
+
 Doge Coin (DOGE)
+
 Tether (USDT)
+
 Cardano (ADA)
+
 Ethereum Classic (ETC)
+
 Binance Coin (BCB)
+
 Basic Attention Token (BAT)
+
 Tron (TRX)
+
 Cake Swap (CAKE)
+
 Shiba Inu (SHIB)
+
 Binance USD (BUSD)
 
 # Required Libraries
