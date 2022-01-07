@@ -3,6 +3,7 @@ A python-based terminal application that displays current cryptocurrency prices
 
 # Covered Cryptocurrencies
 Bitcoin (BTC)
+
 Ethereum (ETH)
 Litecoin (LTC)
 Monero (XMR)
