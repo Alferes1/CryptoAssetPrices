@@ -35,7 +35,7 @@ Shiba Inu (SHIB)
 Binance USD (BUSD)
 
 # Required Libraries
-This application requires the following libraries for properly functioning:
+This application requires the following libraries for functioning properly:
 
 requests (https://docs.python-requests.org/en/latest/)
 
