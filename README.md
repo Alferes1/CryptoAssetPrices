@@ -42,3 +42,6 @@ This application requires the following libraries for functioning properly:
 requests (https://docs.python-requests.org/en/latest/)
 
 beautifulsoup4 (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
+# Credits
+Application made by Alferes1 (https://github.com/Alferes1/)
