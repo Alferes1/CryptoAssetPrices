@@ -101,7 +101,7 @@ for res in result:
 #
 
 doge = "https://coinmarketcap.com/currencies/dogecoin/"
-dogeHtml = requests.get(bch)
+dogeHtml = requests.get(doge)
 
 soup = BeautifulSoup(dogeHtml.text, 'html.parser')
 
